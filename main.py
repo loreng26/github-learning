@@ -10,3 +10,5 @@ print("Multiplication:", a * b)
 print("Division:", a / b)
 
 print("This line was changed by feature B.")
+
+print("Testing remote branches with Git")
