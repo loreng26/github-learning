@@ -9,4 +9,4 @@ print("Subtraction:", a - b)
 print("Multiplication:", a * b)
 print("Division:", a / b)
 
-print("This line will create a conflict.")
+print("This line was changed by feature B.")
