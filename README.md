@@ -25,3 +25,5 @@ This project contains a simple Python program and calculator.
 Run the following command:
 
 python main.py
+
+This project is being used to practice Git and GitHub.
