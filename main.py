@@ -12,3 +12,5 @@ print("Division:", a / b)
 print("This line was changed by feature B.")
 
 print("Main branch update")
+
+print("Useful fix")
